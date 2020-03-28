@@ -12,5 +12,6 @@ class MainActivity : AppCompatActivity() {
 
         Log.e("Damu","Initial commit")
         Log.e("Damu","Second commit")
+        Log.e("Damu","Third commit")
     }
 }
