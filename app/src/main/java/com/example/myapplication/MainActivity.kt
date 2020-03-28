@@ -11,5 +11,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         Log.e("Damu","Initial commit")
+        Log.e("Damu","Second commit")
     }
 }
