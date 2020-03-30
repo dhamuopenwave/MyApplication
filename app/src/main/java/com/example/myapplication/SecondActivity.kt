@@ -18,6 +18,7 @@ class SecondActivity : AppCompatActivity() {
 
         // This is the new branch 2
         // Add again for testing purpose
+        // This is my branch two checkout second
 
     }
 }

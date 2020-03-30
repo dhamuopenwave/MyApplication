@@ -15,5 +15,7 @@ class MainActivity : AppCompatActivity() {
         Log.e("Damu","Third commit")
         Log.e("Damu","Tick commit")
         Log.e("Damu","Today commit")
+
+        // This is my branch two checkout main
     }
 }
