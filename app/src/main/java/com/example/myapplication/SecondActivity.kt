@@ -14,6 +14,7 @@ class SecondActivity : AppCompatActivity() {
         Log.e("Damu","Second file commit")
         Log.e("Damu","aaa file commit")
         Log.e("Damu","bbb file commit")
+        Log.e("Damu","Today commit")
 
     }
 }
