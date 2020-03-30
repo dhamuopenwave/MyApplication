@@ -16,5 +16,7 @@ class SecondActivity : AppCompatActivity() {
         Log.e("Damu","bbb file commit")
         Log.e("Damu","Today commit")
 
+        // I think this is my my app branch one code
+
     }
 }
