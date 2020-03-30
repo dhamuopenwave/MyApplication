@@ -16,5 +16,8 @@ class SecondActivity : AppCompatActivity() {
         Log.e("Damu","bbb file commit")
         Log.e("Damu","Today commit")
 
+        // This is the new branch 2
+        // Add again for testing purpose
+
     }
 }
