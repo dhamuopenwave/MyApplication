@@ -15,5 +15,8 @@ class MainActivity : AppCompatActivity() {
         Log.e("Damu","Third commit")
         Log.e("Damu","Tick commit")
         Log.e("Damu","Today commit")
+
+        // I think this is my my app branch one code
+        // I think this is my my app branch one code
     }
 }
