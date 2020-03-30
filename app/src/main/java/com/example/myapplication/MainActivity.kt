@@ -18,5 +18,8 @@ class MainActivity : AppCompatActivity() {
 
         // I think this is my my app branch one code
         // I think this is my my app branch one code
+
+        // This is my branch two checkout main
+        // I think this is my my app branch two code
     }
 }

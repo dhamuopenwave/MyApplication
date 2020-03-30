@@ -19,5 +19,11 @@ class SecondActivity : AppCompatActivity() {
         // I think this is my my app branch one code
         // I think this is my my app branch one code
 
+        // This is the new branch 2
+        // Add again for testing purpose
+        // This is my branch two checkout second
+
+        // I think this is my my app branch two code
+
     }
 }
