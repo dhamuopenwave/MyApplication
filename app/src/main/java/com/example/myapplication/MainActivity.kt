@@ -17,5 +17,6 @@ class MainActivity : AppCompatActivity() {
         Log.e("Damu","Today commit")
 
         // This is my branch two checkout main
+        // I think this is my my app branch two code
     }
 }
