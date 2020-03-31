@@ -25,5 +25,7 @@ class SecondActivity : AppCompatActivity() {
 
         // I think this is my my app branch two code
 
+        // Master code
+
     }
 }
